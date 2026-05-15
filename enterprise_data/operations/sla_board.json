@@ -1,0 +1,23 @@
+[
+  {
+    "service": "Order Gateway",
+    "sla": "99.95",
+    "current": "99.91",
+    "status": "watch",
+    "reason": "two regional latency spikes"
+  },
+  {
+    "service": "Inventory Sync",
+    "sla": "99.50",
+    "current": "99.72",
+    "status": "green",
+    "reason": "queue depth normalized"
+  },
+  {
+    "service": "Returns Portal",
+    "sla": "99.70",
+    "current": "99.61",
+    "status": "breach-risk",
+    "reason": "database lock contention"
+  }
+]

@@ -1,0 +1,5 @@
+SOX Control Evidence Notes
+Control FIN-17 requires monthly reconciliation between procurement approvals and payment release logs.
+March evidence passed with one management review delay. April evidence is pending two approvals.
+Retention policy requires seven years for signed control evidence and immutable audit trail exports.
+Open finding: approval delegation was not consistently recorded for emergency vendor onboarding.

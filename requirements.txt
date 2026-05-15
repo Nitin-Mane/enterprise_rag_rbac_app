@@ -1,0 +1,10 @@
+django==5.2.14
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+pypdf==6.11.0
+pymupdf==1.27.2.3
+pytesseract==0.3.13
+reportlab==4.5.1
+scikit-learn==1.7.2
+transformers==4.49.0
+huggingface-hub

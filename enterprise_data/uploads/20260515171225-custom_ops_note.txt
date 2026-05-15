@@ -1,0 +1,1 @@
+Custom operations note: Dock 7 scanner failures increased return portal latency. Mitigation is to replace scanner firmware and reroute queue traffic.
